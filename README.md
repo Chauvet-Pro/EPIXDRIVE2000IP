@@ -1,6 +1,7 @@
 # EPIXDRIVE2000IP
 
 **Installation Notes:**
+
 -You must use the Chauvet PRO Uploader PC software to upload this firmware to the device. This is located on the Chauvet Website. 
 -Detailed instructions are in the user manual for the device. However, an important note is that the B file must be uploaded first, then the A file.
 
