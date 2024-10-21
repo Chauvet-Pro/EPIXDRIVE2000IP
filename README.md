@@ -5,6 +5,8 @@
 - You must use the Chauvet PRO Uploader PC software to upload this firmware to the device. This is located on the Chauvet Website. 
 - Detailed instructions are in the user manual for the device. However, an important note is that the B file must be uploaded first, then the A file.
 
+## Software Versions
+
 [V1.8_02-29-24 – ÉPIX Drive 2000 IP](https://github.com/Chauvet-Pro/EPIXDRIVE2000IP/blob/d58b5a7e51ba959c2350620a41743c8931ec9e64/Firmware/V1.8_02-29-24.zip)
 -	Improves Webserver Interface
     * Improved IP Address interface with dedicated page/tab
